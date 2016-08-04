@@ -1,0 +1,38 @@
+_repo: Short-Stories-and-Essays--from-Literature-and-Life-_3379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism'
+- !lcsh 'American fiction -- History and criticism'
+- !lcsh 'Fiction -- History and criticism'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: Worries of a Winter Walk -- Summer Isles of Eden -- Wild Flowers
+  of the Asphalt -- A Circus in the Suburbs -- A She Hamlet -- The Midnight Platoon
+  -- The Beach at Rockaway -- Sawdust in the Arena -- At a Dime Museum -- American
+  Literature in Exile -- The Horse Show -- The Problem of the Summer -- Aesthetic
+  New York Fifty-odd Years Ago -- From New York into New England -- The Art of the
+  Adsmith -- The Psychology of Plagiarism -- Puritanism in American Fiction -- The
+  What and How in Art -- Politics in American Authors ­ Storage -- "Floating down
+  the River on the O-hi-o".
+title: Short Stories and Essays (from Literature and Life)
+url: http://www.gutenberg.org/ebooks/3379
